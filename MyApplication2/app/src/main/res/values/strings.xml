@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_hello">Click me </string>
+    <string name="log_button_click_me">someone has clicked the button...</string>
+</resources>
